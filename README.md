@@ -1,3 +1,7 @@
+Note, this is a personal clone of https://draculatheme.com/visual-studio-code
+
+---
+
 # Dracula for [Visual Studio Code](http://code.visualstudio.com)
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
