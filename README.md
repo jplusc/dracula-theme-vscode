@@ -32,12 +32,15 @@ choco upgrade nodejs -y
 
 #### missing choco?
 Seriously, if you have to use windows, use a package manager to make it less painfull. https://chocolatey.org/
+
 from powershell:
 ```shell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
 
+---
+original README.md follows:
 ---
 
 
