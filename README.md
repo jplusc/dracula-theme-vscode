@@ -52,6 +52,10 @@ cd /d %HOMEDRIVE%%HOMEPATH%\.vscode\extensions\theme-dracula
 git reset --hard
 git pull
 ```
+not showing up in vscode?
+do you have one of the other clones of dracula installed? or even `Dracula Official`?
+you'll have to uninstall it first since this uses the same name.
+after uninstall, exist vscode and rebuild it so vscode sees it as new.
 
 
 
