@@ -10,7 +10,9 @@ dracula:
     - &BG        '#282A36'
     - &FG        '#F8F8F2'
     - &SELECTION '#44475A'
-    - &COMMENT   '#CCCCCC'
+# original COMMENT was #6272A4, tried #CCCCCC for a while but felt off
+# using these 3 colors in other projects: #E3D7C5 (base) #DFC190 (little more color) #D7B377 (used as a header comment)
+    - &COMMENT   '#DFC190'
     - &CYAN      '#8BE9FD'
     - &GREEN     '#50FA7B'
     - &ORANGE    '#FFB86C'
