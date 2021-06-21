@@ -39,6 +39,24 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 
 
+
+#### misc notes:
+update your local copy:
+```shell
+cd /d %HOMEDRIVE%%HOMEPATH%\.vscode\extensions\theme-dracula
+git pull
+```
+or if needed:
+```shell
+cd /d %HOMEDRIVE%%HOMEPATH%\.vscode\extensions\theme-dracula
+git reset --hard
+git pull
+```
+
+
+
+
+
 ---
 
 *original README.md follows:*
