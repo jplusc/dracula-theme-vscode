@@ -1,5 +1,29 @@
 # Changelog
 
+## 2.24.0
+
+### Minor
+
+- add support for bracket pair highlighting. (#195)
+
+## 2.23.1
+
+### Fix
+
+- [python]: Only apply function highlighting for functions that are actually defined. (#186)
+
+
+## 2.23.0
+
+### Feat
+
+- Add secondary button styles. (closes #176)
+
+### Fix
+
+- Remove preset contrast borders. (closes #120, #147)
+- Improve contrast of "open a remote window" button. (closes #146)
+
 ## 2.22.4
 
 ### Fix
