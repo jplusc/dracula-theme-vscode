@@ -14,11 +14,11 @@ semanticHighlighting: true
 dracula:
   base:
     - &BG        '#282A36'
-# original FG was #F8F8F2 but too bright on a darker blue background
-    - &FG        '#F1EEE4'
+# original FG was #F8F8F2 but too bright on a darker blue background, tries: alabaster(#F1EDE4) to bright? #F5F5F5? isabelline(#F8F5F1) eggshell #EAEAD7?
+    - &FG        '#EAEAD7'
     - &SELECTION '#44475A'
 # original COMMENT was #6272A4, tried #CCCCCC for a while but felt off
-# using these 3 colors in other projects: #E3D7C5 (base) #DFC190 (little more color) #D7B377 (used as a header comment)
+# using these 3 colors in other projects: #E3D7C5 "bone" (base) #DFC190 (little more color) #D7B377 (used as a header comment)
     - &COMMENT   '#E3D7C5'
     - &CYAN      '#8BE9FD'
     - &GREEN     '#50FA7B'
