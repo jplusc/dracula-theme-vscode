@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.24.2
+
+### Patch
+
+- Fix incorrect javascript destructuring colors in certain conditions. #203
+- Correctly highlight PHP semicolons when php expression is inside string. #208
+- Fix issue preventing folded regions from receiving any highlight colors. #210
+
 ## 2.24.1
 
 ### Patch
