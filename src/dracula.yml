@@ -20,8 +20,8 @@ dracula:
 #   alabaster #F1F1E4 -- to bright?
 #   eggshell #EAEAD7 -- little too dull 
 #   bright bone #EBE3D6 -- may have a winner
-#   linen #F2ECE4
-    - &FG        '#F2ECE4'
+#   linen #F2ECE4 -- so close, slightly too bright on groups of caps (urls with params hard to read) 
+    - &FG        '#EBE3D6'
     - &SELECTION '#44475A'
 # original COMMENT was #6272A4, tried #CCCCCC for a while but felt off
 # using these 3 colors in other projects: #E3D7C5 "bone" (base) #DFC190 (little more color) #D7B377 (used as a header comment)
